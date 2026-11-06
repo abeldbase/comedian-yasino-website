@@ -1,0 +1,29 @@
+COMEDIAN YASINO WEBSITE
+=======================
+
+OPEN THE WEBSITE ON WINDOWS
+1. Download Comedian_Yasino_Website.zip.
+2. Right-click the ZIP file and choose Extract All.
+3. Open the extracted folder and double-click index.html.
+4. Choose EN or አማ at the top of the page to switch languages.
+
+Keep index.html, style.css, app.js, and the assets folder together.
+
+WHAT IS INCLUDED
+- The complete current HTML, CSS, and JavaScript for the website.
+- The AI-generated portrait and other site image assets.
+- English and Amharic text and the language switcher.
+- A link to @comedianyasino on TikTok.
+- A featured YouTube video identified as a repost.
+
+INTERNET
+The page can open from your computer. Social links, online videos, and
+web fonts need internet access.
+
+PUBLISHING
+The website is already available at:
+https://comedian-yasino-gift-4kfcz4.amiablegeode.chatgpt.site
+
+The custom address comedianyasino.com is not connected yet.
+If you upload the website to another host, upload the contents of the
+extracted folder together, keeping their original folder structure.
